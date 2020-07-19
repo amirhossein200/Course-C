@@ -55,9 +55,7 @@ public:
     }
 
     void showStudent(){
-        cout<<this->firstName;
-        cout<<this->middleName;
-        cout<<this->lastName<<this->sex<<this->yearOfBirth<<this->registrationNumber<< this->email;
+        cout<<this->firstName<<" | "<<this->middleName<<" | "<<this->lastName<<" | "<<this->sex<<" | "<<this->yearOfBirth<<" | "<<this->registrationNumber<<" | "<< this->email<<"\n";
     }
 
 }st[7];
