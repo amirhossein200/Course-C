@@ -3,4 +3,4 @@
 
 لیست تمرین
 ----
-- Student Class [class c++](https://github.com/amirhosseinm7999/Course-C/tree/master/class%20student)
+- Student Class [class c++](https://github.com/amirhossein200/Course-C/tree/master/class%20student)
